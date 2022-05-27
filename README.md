@@ -9,7 +9,7 @@ datetime
 ```
 ## How to Execute 
 ```
-Step 1: Open your favorite IDE (preferrably PyCharm). 
+Step 1: Open your favorite IDE (preferably PyCharm). 
 Step 2: Navigate to and execute the main class: main.py.
 Step 3: When prompted, enter the name of the domain in which you would like to query.
 ```
