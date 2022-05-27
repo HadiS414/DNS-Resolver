@@ -93,3 +93,4 @@ if __name__ == '__main__':
     print("Query time:", (end-start)*1000, "ms")
     # print date and time when request was made
     print("When:", datetime.datetime.now())
+
